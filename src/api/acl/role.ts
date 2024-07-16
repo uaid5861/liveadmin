@@ -1,10 +1,3 @@
-/*
- * @Author: 朽木白
- * @Date: 2023-03-10 11:31:11
- * @LastEditors: 1547702880@@qq.com
- * @LastEditTime: 2023-06-16 10:36:18
- * @Description: 角色接口
- */
 import http from '@/utils/http'
 import type { PageRes } from '../types'
 import type { Role } from './types'

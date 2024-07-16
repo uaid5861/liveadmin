@@ -1,11 +1,3 @@
-/*
- * @Author: 朽木白
- * @Date: 2023-06-16 15:41:27
- * @LastEditors: 1547702880@@qq.com
- * @LastEditTime: 2023-06-25 14:13:27
- * @Description: 短视频管理
- */
-
 import http from '@/utils/http'
 import type { PageRes } from '../types'
 import type { IShortVideo, ISelectItem } from './types'

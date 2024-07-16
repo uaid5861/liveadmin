@@ -1,0 +1,1 @@
+import{a9 as e}from"./index-e1b9afb8.js";function i(t){return e.get(`/admin/application/videoClass/list/${t.pageSize}/${t.pageNum}`,{name:t.name})}function n(){return e.get("/admin/application/videoClass/getAll")}export{i as a,n as g};

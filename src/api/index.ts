@@ -1,9 +1,3 @@
-/*
- * @Author: 朽木白
- * @Description: 接口
- * @docs: http://139.198.152.148:8110/doc.html#/home
- */
-
 export { login, getUserInfo, logout } from './login'
 export {
   getAclUserList,

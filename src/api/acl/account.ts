@@ -1,10 +1,4 @@
-/*
- * @Author: 朽木白
- * @Date: 2023-03-03 15:58:03
- * @LastEditors: 1547702880@@qq.com
- * @LastEditTime: 2023-06-16 10:11:22
- * @Description: 系统账户接口
- */
+
 
 import http from '@/utils/http'
 import type { PageRes } from '../types'

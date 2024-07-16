@@ -1,11 +1,3 @@
-/*
- * @Author: 朽木白
- * @Date: 2023-06-16 15:41:27
- * @LastEditors: 1547702880@@qq.com
- * @LastEditTime: 2023-06-25 14:33:44
- * @Description: 帖子管理
- */
-
 import http from '@/utils/http'
 import type { PageRes } from '../types'
 import type { IPost } from './types'

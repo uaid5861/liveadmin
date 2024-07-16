@@ -1,10 +1,3 @@
-/*
- * @Description:类型哦
- * @Autor: codeBo
- * @Date: 2023-06-16 14:22:06
- * @LastEditors: gjzxlihaibo@163.com
- * @LastEditTime: 2023-06-20 17:04:24
- */
 import type { ReqPage } from '../types'
 // 广告设置模块
 export namespace AdSetting {

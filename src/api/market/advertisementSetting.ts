@@ -1,10 +1,3 @@
-/*
- * @Author: 李海波
- * @Date: 2023-03-10 11:31:11
- * @LastEditors: gjzxlihaibo@163.com
- * @LastEditTime: 2023-06-20 16:26:02
- * @Description: 广告设置页面
- */
 import http from '@/utils/http'
 import type { PageRes } from '../types'
 import type { AdSetting } from './types'

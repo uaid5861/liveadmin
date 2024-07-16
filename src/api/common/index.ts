@@ -1,10 +1,3 @@
-/*
- * @Author: 朽木白
- * @Date: 2023-06-25 15:00:42
- * @LastEditors: 1547702880@@qq.com
- * @LastEditTime: 2023-06-26 09:31:31
- * @Description: 公共接口管理
- */
 import http from '@/utils/http'
 import type { IReqStatus, Upload } from './types'
 
